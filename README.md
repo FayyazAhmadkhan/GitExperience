@@ -1,3 +1,3 @@
 # GitExperience
 Learn Git
-author - fayyaz ahmad khan
+author - fayyaz ahmad khan..
